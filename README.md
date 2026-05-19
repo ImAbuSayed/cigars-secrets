@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cigars-secrets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Cigars & Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cigars-secrets/) |
+| **Get License** | [Get License For Cigars & Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cigars-secrets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਮੇਰੀਆਂ ਅੱਖਾਂ ਦੇ ਵਿਚ ਤੂੰ ਵੱਸਦੀ so close
+> ਤੇਰੇ ਬਿਨਾਂ ਮੈਂ ਰਹਿ ਨਹੀਂ ਸਕਦਾ heaven knows
+> ਸਾਰੀ ਰਾਤ ਮੈਂ ਜਾਗਦਾ ਰਹਿੰਦਾ think of you
+> ਦਿਲ ਮੇਰਾ ਹੁਣ ਬੇਕਾਬੂ ਹੋਇਆ make a move
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
