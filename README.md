@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cigars-secrets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Cigars & Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cigars-secrets/) |
+| **Get License** | [License this song: Cigars & Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cigars-secrets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1707)
 
 ---
 
