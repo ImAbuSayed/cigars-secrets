@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cigars & Secrets
+
+This log tracks the cryptographic history and versioning for the song **Cigars & Secrets** (cigars-secrets).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T01:24:07.184878 | `v1` | `beb2786423e1a06c4a96eff90a82a4ee0f5d910f800e7302d7f4a810c17341af` | `0b198732f61410e9d1e898aef43c498825211b09e677d662b5efa7f02861b7f9` | `2026-05-20_cigars-secrets-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
